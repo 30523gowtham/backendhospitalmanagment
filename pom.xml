@@ -15,7 +15,7 @@
     <groupId>com.hospital</groupId>
     <artifactId>hospital-management</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <package>jar</package>
+    <package>war</package>
     <name>hospital-management</name>
     <description>Spring Boot backend for hospital management</description>
 
